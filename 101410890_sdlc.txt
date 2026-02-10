@@ -1,0 +1,3 @@
+DevOps helps teams build, test, and release software faster by automating
+repetitive tasks like building code, testing, and deployment. This reduces 
+delays and allows companies to deliver updates quickly.
