@@ -1,0 +1,8 @@
+Learning DevOps engineering is important in the software
+development life cycle (SDLC) because it helps bridge 
+the gap between development and operations teams.
+Traditionally, developers focused on writing code while 
+operations handled deployment and maintenance, 
+which often caused delays, errors, and miscommunication. 
+DevOps promotes collaboration, shared responsibility, and
+continuous feedback throughout every stage of the SDLC.
