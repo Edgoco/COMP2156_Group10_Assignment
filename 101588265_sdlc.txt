@@ -1,3 +1,7 @@
+DevOps encourages collaboration throughout the SDLC.
+Automation reduces manual errors during development.
+
+
 A Devops engineer plays an important role in the SDLC.
 DevOps helps automate building, testing, and deployment processes.
 It reduces errors and speeds up software delivery.
