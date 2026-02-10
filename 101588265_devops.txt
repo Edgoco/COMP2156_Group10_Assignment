@@ -1,3 +1,7 @@
+DevOps also focuses on monitoring system performance.
+Continuous feedback helps improve software quality.
+
+
 DevOps is a practice that combines development and operations.
 It helps teams deliver software faster and more reliably.
 DevOps uses automation tools to improve efficiency.
