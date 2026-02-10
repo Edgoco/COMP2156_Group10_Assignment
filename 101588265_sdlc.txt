@@ -1,0 +1,5 @@
+A Devops engineer plays an important role in the SDLC.
+DevOps helps automate building, testing, and deployment processes.
+It reduces errors and speeds up software delivery.
+DevOps also improves communication between teams.
+
