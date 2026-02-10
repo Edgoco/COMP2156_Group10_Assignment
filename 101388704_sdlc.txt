@@ -6,3 +6,12 @@ operations handled deployment and maintenance,
 which often caused delays, errors, and miscommunication. 
 DevOps promotes collaboration, shared responsibility, and
 continuous feedback throughout every stage of the SDLC.
+
+DevOps practices such as continuous integration, 
+continuous deployment (CI/CD), automation, and monitoring
+allow software to be built, tested, and released faster 
+and more reliably. This reduces manual errors, 
+improves software quality, and enables teams to detect 
+and fix issues earlier in the development process. 
+As a result, organizations can deliver updates more 
+frequently while maintaining system stability.
