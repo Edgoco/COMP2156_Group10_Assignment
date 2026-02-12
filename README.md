@@ -1,8 +1,8 @@
 # COMP2156_Group10_Assignment
 
-/Name: Edgar Gomez
-/Student ID: 101388704
-/Branch: 101388704-Edgar
+*Name: Edgar Gomez
+**Student ID: 101388704
+**Branch: 101388704-Edgar
 
 I made 3 files with at least 10 commands with important information on it, the 3 files are the following:
 
