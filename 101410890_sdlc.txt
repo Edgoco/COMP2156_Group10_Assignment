@@ -7,3 +7,7 @@ delays and allows companies to deliver updates quickly.
 DevOps connects developers and IT operations teams, encouraging communication 
 and shared responsibility. Instead of working separately, teams collaborate 
 throughout the entire SDLC.
+
+
+
+The End.
