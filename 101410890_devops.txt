@@ -14,3 +14,5 @@ DevOpsStudents will learn about data formats and types,including Extensible
 Markup Language (XML), JavaScript Object Notation (JSON),Yaml Ain't Markup 
 Language (YAML), and Yet Another Next Generation (YANG), and their value 
 in network automation, along with DevOps tools such as Ansible and G.
+
+this was excerpt was taken from the course outline 2026
