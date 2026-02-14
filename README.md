@@ -1,18 +1,13 @@
 # COMP2156_Group10_Assignment
-101588265-Helen
 ## Group Members
 
 - Helen Maw (101588265)
-  - Added DevOps, SDLC, and George Brown College content
-## Group Members
-- Helen Maw (101588265)
-
-### Contributions
-- Added DevOps, SDLC, and George Brown content files
+  - Added DevOps, SDLC, and George Brown College content  
+-Contributions
+  - Added DevOps, SDLC, and George Brown content files
 
 
-
-Group Member Name: Edgar Gomez  
+-Group Member Name: Edgar Gomez  
 Student ID: 101388704  
 Branch: 101388704-Edgar
 
@@ -23,7 +18,7 @@ I made 3 files with at least 10 commands with important information on it, the 3
 101388704_sdlc.txt - Contain information about important of learning DevOps Engineer
 
 
-Group Member: Kevin Henry
+-Group Member: Kevin Henry
 Id Number: 101410890
 Branch: 101410890-Kevinhenry
 
